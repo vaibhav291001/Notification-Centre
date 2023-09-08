@@ -16,6 +16,7 @@
 		4C7331B32AAAF02300574C96 /* TimepassTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7331B22AAAF02300574C96 /* TimepassTests.swift */; };
 		4C7331BD2AAAF02300574C96 /* TimepassUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7331BC2AAAF02300574C96 /* TimepassUITests.swift */; };
 		4C7331BF2AAAF02300574C96 /* TimepassUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7331BE2AAAF02300574C96 /* TimepassUITestsLaunchTests.swift */; };
+		4C7331CC2AAAF13B00574C96 /* Custom View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7331CB2AAAF13B00574C96 /* Custom View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4C7331B82AAAF02300574C96 /* TimepassUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimepassUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C7331BC2AAAF02300574C96 /* TimepassUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimepassUITests.swift; sourceTree = "<group>"; };
 		4C7331BE2AAAF02300574C96 /* TimepassUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimepassUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4C7331CB2AAAF13B00574C96 /* Custom View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Custom View.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				4C7331A42AAAF02300574C96 /* Assets.xcassets */,
 				4C7331A62AAAF02300574C96 /* LaunchScreen.storyboard */,
 				4C7331A92AAAF02300574C96 /* Info.plist */,
+				4C7331CB2AAAF13B00574C96 /* Custom View.swift */,
 			);
 			path = Timepass;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				4C7331A02AAAF02200574C96 /* ViewController.swift in Sources */,
 				4C73319C2AAAF02200574C96 /* AppDelegate.swift in Sources */,
+				4C7331CC2AAAF13B00574C96 /* Custom View.swift in Sources */,
 				4C73319E2AAAF02200574C96 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
